@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas 3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="apakabar_dunia">Apa Kabar Dunia!</string>
+    <string name="tombol_indo">terjemah bahasa indonesia!</string>
+    <string name="tombol_inggris">terjemah bahasa inggris!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
